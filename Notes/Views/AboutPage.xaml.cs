@@ -1,6 +1,6 @@
 using Microsoft.Maui.ApplicationModel; // for Launcher
 
-namespace Notes;
+namespace Notes.Views;
 
 public partial class AboutPage : ContentPage
 {

@@ -1,4 +1,5 @@
-﻿using Notes;
+﻿using Notes.Views;
+
 
 namespace Notes;
 
@@ -8,6 +9,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new NotePage();
+		MainPage = new Notes.Views.NotePage();
+
 	}
 }
