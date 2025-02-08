@@ -44,6 +44,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/AboutPage.xaml
 
+[/Users/cooperkeenan/Downloads/SE-main/Notes/Views/AllNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AllNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AllNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AllNotes.xaml
+
 [/Users/cooperkeenan/Downloads/SE-main/Notes/Views/NotePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.NotePage.xaml
