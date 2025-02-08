@@ -10,7 +10,7 @@ except ImportError:
 
 def main():
     # Define the base directory that contains your MAUI app files.
-    base_dir = "MyMauiApp"  # adjust this path if needed
+    base_dir = "Notes"  # adjust this path if needed
 
     if not os.path.isdir(base_dir):
         print(f"Error: '{base_dir}' is not a valid directory.")
