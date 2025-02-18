@@ -56,13 +56,17 @@ internal class NoteViewModel : ObservableObject, IQueryAttributable
     }
 
     void IQueryAttributable.ApplyQueryAttributes(IDictionary<string, object> query)
+{
+    if (query.ContainsKey("load"))
     {
-        if (query.ContainsKey("load"))
+        if (query["load"] is string noteId && !string.IsNullOrEmpty(noteId))  
         {
-            _note = Models.Note.Load(query["load"].ToString());
+            _note = Models.Note.Load(noteId);
             RefreshProperties();
         }
     }
+}
+
 
     public void Reload()
     {
