@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l59STo6OL6yI9g6MBLlfDv6a8sTSpavsSaVfdnp9WJbzDJoI25e5I/bq75OCMzApXTgUM5LivDpHnjIQzftnUg==",
+  "dgSpecHash": "znkTcDAZsrnEDOrK5QdxCx5EjOLW+4w5FYImPss2u+sngvimaFwjktPpMW9edOXNriKmuKXFsq85lNzD4UXpiA==",
   "success": true,
   "projectFilePath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
   "expectedPackageFiles": [
+    "/Users/cooperkeenan/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

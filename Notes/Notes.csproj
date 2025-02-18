@@ -11,6 +11,8 @@
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 
+		
+
 		<!-- Enable nullable strings -->
 		<Nullable>enable</Nullable>
 
@@ -49,6 +51,10 @@
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+
+		<!-- For MVVM Model -->
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+
 	</ItemGroup>
 
 	<ItemGroup>

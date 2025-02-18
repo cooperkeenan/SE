@@ -35,6 +35,7 @@
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/Notes.csproj.AssemblyReference.cache
+/Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/CommunityToolkit.Mvvm.stamp
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.CSharp.stamp
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Configuration.stamp

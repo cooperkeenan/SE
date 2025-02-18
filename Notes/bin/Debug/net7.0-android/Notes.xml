@@ -4,5 +4,20 @@
         <name>Notes</name>
     </assembly>
     <members>
+        <member name="M:Notes.ViewModels.NotesViewModel.NewNoteAsync">
+            <summary>
+            Opens a new blank note
+            </summary>
+        </member>
+        <member name="M:Notes.ViewModels.NotesViewModel.SelectNoteAsync(Notes.ViewModels.NoteViewModel)">
+            <summary>
+            Opens an existing note
+            </summary>
+        </member>
+        <member name="M:Notes.ViewModels.NotesViewModel.Microsoft#Maui#Controls#IQueryAttributable#ApplyQueryAttributes(System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            Handles query attributes passed via Shell navigation
+            </summary>
+        </member>
     </members>
 </doc>
