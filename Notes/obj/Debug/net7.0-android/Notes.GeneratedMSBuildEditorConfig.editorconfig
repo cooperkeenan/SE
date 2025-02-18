@@ -12,45 +12,45 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Notes
-build_property.ProjectDir = /Users/cooperkeenan/Downloads/SE-main/Notes/
+build_property.ProjectDir = /Users/cooperkeenan/Desktop/SE5/SE/Notes/
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/App.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/AppShell.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/Resources/Styles/Colors.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/Resources/Styles/Styles.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/Views/AboutPage.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/Views/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/AboutPage.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/Views/AllNotes.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/Views/AllNotes.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AllNotes.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/AllNotes.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/AllNotes.xaml
 
-[/Users/cooperkeenan/Downloads/SE-main/Notes/Views/NotePage.xaml]
+[/Users/cooperkeenan/Desktop/SE5/SE/Notes/Views/NotePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.NotePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/NotePage.xaml

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7HYUlDU92rwb3iKWwWtTGsomrql5WYPQ/cBRF/Ssi/puPhjD4g4LIjniGYItU/SM2Tz3G1OKZ386Fnv5erVTwg==",
+  "dgSpecHash": "Q4n9MHaJiVM=",
   "success": true,
-  "projectFilePath": "/Users/cooperkeenan/Downloads/SE-main/Notes/Notes.csproj",
+  "projectFilePath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
   "expectedPackageFiles": [
     "/Users/cooperkeenan/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -15,6 +15,8 @@
     "/Users/cooperkeenan/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/microsoft.maui.graphics/7.0.101/microsoft.maui.graphics.7.0.101.nupkg.sha512",
+    "/Users/cooperkeenan/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23401.1/microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "/Users/cooperkeenan/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23401.1/microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/cooperkeenan/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

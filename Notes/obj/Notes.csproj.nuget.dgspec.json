@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cooperkeenan/Downloads/SE-main/Notes/Notes.csproj": {}
+    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {}
   },
   "projects": {
-    "/Users/cooperkeenan/Downloads/SE-main/Notes/Notes.csproj": {
+    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cooperkeenan/Downloads/SE-main/Notes/Notes.csproj",
+        "projectUniqueName": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
         "projectName": "Notes",
-        "projectPath": "/Users/cooperkeenan/Downloads/SE-main/Notes/Notes.csproj",
+        "projectPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
         "packagesPath": "/Users/cooperkeenan/.nuget/packages/",
-        "outputPath": "/Users/cooperkeenan/Downloads/SE-main/Notes/obj/",
+        "outputPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -44,6 +44,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,6 +77,18 @@
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.101, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
             },
             "Xamarin.Android.Glide": {
@@ -158,7 +175,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
@@ -185,6 +202,18 @@
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.101, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
             }
           },
@@ -216,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
@@ -243,6 +272,18 @@
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.101, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
             }
           },
@@ -275,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
