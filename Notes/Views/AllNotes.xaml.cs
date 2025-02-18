@@ -18,7 +18,7 @@ public partial class AllNotesPage : ContentPage
 
     private async void Add_Clicked(object sender, EventArgs e)
     {
-        await Shell.Current.GoToAsync(nameof(NotePage));
+        await Shell.Current.GoToAsync($"{nameof(NotePage)}");
     }
 
 

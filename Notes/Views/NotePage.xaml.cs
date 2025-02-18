@@ -36,12 +36,15 @@ public partial class NotePage : ContentPage
 
     //Save Button
     private async void SaveButton_Clicked(object sender, EventArgs e)
+{
+    if (BindingContext is Models.Note note)
     {
-        if (BindingContext is Models.Note note)
-            File.WriteAllText(note.Filename, TextEditor.Text);
-
+        string fileName = note.Filename ?? Path.Combine(FileSystem.AppDataDirectory, "default.notes.txt");
+        File.WriteAllText(fileName, TextEditor.Text);
         await Shell.Current.GoToAsync("..");
     }
+}
+
 
     //Delete Button
     private async void DeleteButton_Clicked(object sender, EventArgs e)
