@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {}
+    "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj": {}
   },
   "projects": {
-    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {
+    "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
+        "projectUniqueName": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj",
         "projectName": "Notes",
-        "projectPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
+        "projectPath": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj",
         "packagesPath": "/Users/cooperkeenan/.nuget/packages/",
-        "outputPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/",
+        "outputPath": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
