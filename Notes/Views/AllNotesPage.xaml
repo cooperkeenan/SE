@@ -5,9 +5,7 @@
              Title="Your Notes"
              NavigatedTo="ContentPage_NavigatedTo"> <!-- ✅ Moved Inside Properly -->
 
-    <ContentPage.BindingContext>
-        <viewModels:NotesViewModel />
-    </ContentPage.BindingContext>
+    
     
     <!-- Add an item to the toolbar -->
     <ContentPage.ToolbarItems>

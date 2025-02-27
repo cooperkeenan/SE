@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj": {}
+    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {}
   },
   "projects": {
-    "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj": {
+    "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj",
+        "projectUniqueName": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
         "projectName": "Notes",
-        "projectPath": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/Notes.csproj",
+        "projectPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/Notes.csproj",
         "packagesPath": "/Users/cooperkeenan/.nuget/packages/",
-        "outputPath": "/Users/cooperkeenan/Documents/GitHub/SE5/SE/Notes/obj/",
+        "outputPath": "/Users/cooperkeenan/Desktop/SE5/SE/Notes/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -54,10 +54,22 @@
               "target": "Package",
               "version": "[8.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -171,10 +183,22 @@
               "target": "Package",
               "version": "[8.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -233,10 +257,22 @@
               "target": "Package",
               "version": "[8.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
